@@ -2,3 +2,6 @@ JCalendar/*.zip
 JCalendar/dist
 JCalendar/doc/api
 JCalendar/lib/jcalendar-*.jar
+/JCalendarNetbeans/nbproject/private/
+/JCalendarNetbeans/build/
+/JCalendarNetbeans/dist/
